@@ -1,0 +1,4 @@
+# port
+community: 2805 ~ 2854 (step 10)
+channel  : 2805 ~ 2882 (step 13)
+official : 2805 ~ 2882 (step 13)

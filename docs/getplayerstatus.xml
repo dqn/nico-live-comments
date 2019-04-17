@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+  <body>
+    <getplayerstatus status="ok" time="1555501534">
+      <stream>
+        <id>lv319080218</id>
+        <title>ご注文はうさぎですか？？(2期)全12羽</title>
+        <description>2期全12羽配信5周年記念！「ご注文はうさぎですか？？」(2期)全12羽一挙放送を行います。イントロダクションこの春から高校に通うべく新しい街にやってきた</description>
+        <provider_type>official</provider_type>
+        <default_community></default_community>
+        <international>1</international>
+        <is_owner>0</is_owner>
+        <owner_id>394</owner_id>
+        <owner_name></owner_name>
+        <is_reserved>0</is_reserved>
+        <is_niconico_enquete_enabled>1</is_niconico_enquete_enabled>
+        <watch_count>32882</watch_count>
+        <comment_count>48175</comment_count>
+        <base_time>1555493400</base_time>
+        <open_time>1555493400</open_time>
+        <start_time>1555495200</start_time>
+        <end_time>1555513800</end_time>
+        <hqstream>1</hqstream>
+        <is_rerun_stream>0</is_rerun_stream>
+        <is_archiveplayserver>1</is_archiveplayserver>
+        <bourbon_url>https://www.nicovideo.jp/premiumentry?sec=nicolive_crowded&amp;sub=watch_crowded_0_official_lv319080218_onair</bourbon_url>
+        <full_video>https://www.nicovideo.jp/premiumentry?sec=nicolive_crowded&amp;sub=watch_crowded_0_official_lv319080218_onair</full_video>
+        <after_video></after_video>
+        <before_video></before_video>
+        <kickout_video>https://account.nicovideo.jp/premium/register?sec=nicolive_oidashi&amp;sub=watchplayer_oidashialert_0_official_lv319080218_onair</kickout_video>
+        <twitter_tag>#gochiusa</twitter_tag>
+        <danjo_comment_mode>0</danjo_comment_mode>
+        <aspect>raw</aspect>
+        <infinity_mode>0</infinity_mode>
+        <archive>0</archive>
+        <press>
+          <display_lines>-1</display_lines>
+          <display_time>-1</display_time>
+          <style_conf></style_conf>
+        </press>
+        <plugin_delay></plugin_delay>
+        <plugin_url></plugin_url>
+        <plugin_urls></plugin_urls>
+        <allow_netduetto>0</allow_netduetto>
+        <ng_scoring>0</ng_scoring>
+        <is_nonarchive_timeshift_enabled>1</is_nonarchive_timeshift_enabled>
+        <is_timeshift_reserved>0</is_timeshift_reserved>
+        <header_comment>0</header_comment>
+        <footer_comment>0</footer_comment>
+        <split_bottom>0</split_bottom>
+        <split_top>0</split_top>
+        <background_comment>0</background_comment>
+        <font_scale></font_scale>
+        <comment_lock>0</comment_lock>
+        <telop>
+          <enable>0</enable>
+        </telop>
+        <contents_list>
+          <contents disableaudio="0" disablevideo="0" id="main" start_time="1555492800">case:sp:limelight%3Artmp%3A%2F%2Flive.nicovideo.invalid%3A1935%2Fsmilevideo%2Cs_lv319080218,mobile:limelight%3Artmp%3A%2F%2Flive.nicovideo.invalid%3A1935%2Fsmilevideo%2Cs_lv319080218,premium:limelight%3Artmp%3A%2F%2Flive.nicovideo.invalid%3A1935%2Fsmilevideo%2Cs_lv319080218_sub1,default:limelight%3Artmp%3A%2F%2Flive.nicovideo.invalid%3A1935%2Fsmilevideo%2Cs_lv319080218</contents>
+        </contents_list>
+        <picture_url>https://nicolive.cdn.nimg.jp/live/simg/img/a554/1659774.140d79.jpg</picture_url>
+        <thumb_url>https://nicolive.cdn.nimg.jp/live/simg/img/a554/1659772.0fd4ae.jpg</thumb_url>
+        <is_priority_prefecture></is_priority_prefecture>
+      </stream>
+      <user>
+        <user_id>12345</user_id>
+        <nickname>XXXXX</nickname>
+        <is_premium>0</is_premium>
+        <userage>111</userage>
+        <usersex>1</usersex>
+        <userdomain>jp</userdomain>
+        <userprefecture>21</userprefecture>
+        <userlanguage>ja-jp</userlanguage>
+        <room_label>1F左 前方</room_label>
+        <room_seetno>812</room_seetno>
+        <is_join></is_join>
+        <twitter_info>
+          <status>enabled</status>
+          <screen_name>XXX</screen_name>
+          <followers_count>999</followers_count>
+          <is_vip>0</is_vip>
+          <profile_image_url>http://pbs.twimg.com/profile_images/1234567890/Wsxa8PAy_normal.jpg</profile_image_url>
+          <after_auth>0</after_auth>
+          <tweet_token>XXXXXXXXXXX</tweet_token>
+        </twitter_info>
+      </user>
+      <ms>
+        <addr>omsg105.live.nicovideo.jp</addr>
+        <port>2864</port>
+        <thread>1647374387</thread>
+      </ms>
+      <tid_list></tid_list>
+      <tickets>
+        <stream name="s_lv319080218">invalid</stream>
+        <stream name="s_lv319080218_sub1">invalid</stream>
+        <stream name="s_lv319080218_sub2">invalid</stream>
+        <stream name="s_lv319080218_sub3">invalid</stream>
+        <stream name="s_lv319080218_sub4">invalid</stream>
+        <stream name="s_lv319080218_sub5">invalid</stream>
+        <stream name="s_lv319080218_sub6">invalid</stream>
+        <stream name="s_lv319080218_sub7">invalid</stream>
+        <stream name="s_lv319080218_sub8">invalid</stream>
+        <stream name="s_lv319080218_sub9">invalid</stream>
+      </tickets>
+      <twitter>
+        <live_enabled>1</live_enabled>
+        <vip_mode_count>10000</vip_mode_count>
+        <live_api_url>http://watch.live.nicovideo.jp/api/</live_api_url>
+      </twitter>
+      <player>
+        <qos_analytics>0</qos_analytics>
+        <dialog_image>
+          <oidashi>http://nicolive.cdn.nimg.jp/live/simg/img/201311/281696.a29344.png</oidashi>
+        </dialog_image>
+        <is_notice_viewer_balloon_enabled>1</is_notice_viewer_balloon_enabled>
+        <error_report>1</error_report>
+      </player>
+      <marquee>
+        <category></category>
+        <game_key>93ccb19d</game_key>
+        <game_time>1555501534</game_time>
+        <force_nicowari_off>1</force_nicowari_off>
+      </marquee>
+    </getplayerstatus>
