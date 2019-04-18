@@ -1,3 +1,4 @@
+import time
 import requests
 import socket
 import threading
@@ -12,6 +13,8 @@ COMMUNITY_PORT_STEP = 10
 SEND_XML_FORMAT = '<thread thread="{}" res_from="-1" version="{}" scores="1" />\0'
 SEND_XML_VERSION = '20061206'
 BUFSIZE = 1024
+
+HEARTBEAT_SEC = 60
 
 class NicoliveListener:
     def __init__(self, mail, password):
@@ -49,7 +52,10 @@ class NicoliveListener:
             thread.daemon = True
             thread.start()
 
-        while True: pass
+        while True:
+            url = 'http://ow.live.nicovideo.jp/api/heartbeat'
+            self.session.post(url, params={'v': live_id})
+            time.sleep(HEARTBEAT_SEC)
 
     def on_status(self, status):
         print(status)
