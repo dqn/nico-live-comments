@@ -17,7 +17,7 @@ class MyListener(NicoliveListener):
         print('thread[{}]: {}'.format(chat.get('thread'), chat.string))
 
 def usage():
-    print('Usage: python fetch.py [mail] [password] [live id]')
+    print('Usage: python fetch.py <mail> <password> <live_id>')
 
 def main():
     if len(sys.argv) != 4:
